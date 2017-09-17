@@ -1,7 +1,5 @@
 Paul Solleza
-
 Peter Cvijovic
-
 LBL EA1
 
 -------------------------------------------------------------------------------------------
@@ -14,19 +12,18 @@ Accessories:
 Wiring instructions:
 
 AMG GND <--> BB GND bus
-
 AMG +5V <--> BB +5V bus
 
-* TFT LCD screen GND <------> BB GND bus
-* TFT LCD screen VCC <------> BB +5V bus
-* TFT LCD screen RESET <----> AMG Pin 8
-* TFT LCD screen D/C <------> AMG Pin 7
-* TFT LCD screen CARD_CS <--> AMG Pin 5
-* TFT LCD screen TFT_CS <---> AMG Pin 6
-* TFT LCD screen MOSI <-----> AMG Pin 51
-* TFT LCD screen SCK <------> AMG Pin 52
-* TFT LCD screen MISO <-----> AMG Pin 50
-* TFT LCD screen LITE <-----> BB +5V bus
+TFT LCD screen GND <------> BB GND bus
+TFT LCD screen VCC <------> BB +5V bus
+TFT LCD screen RESET <----> AMG Pin 8
+TFT LCD screen D/C <------> AMG Pin 7
+TFT LCD screen CARD_CS <--> AMG Pin 5
+TFT LCD screen TFT_CS <---> AMG Pin 6
+TFT LCD screen MOSI <-----> AMG Pin 51
+TFT LCD screen SCK <------> AMG Pin 52
+TFT LCD screen MISO <-----> AMG Pin 50
+TFT LCD screen LITE <-----> BB +5V bus
 
 Sparkfun Thumb Joystick VCC <---> BB +5V bus
 
