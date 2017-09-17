@@ -37,7 +37,7 @@ AMG Analog Pin A7 <---> n/a
 Running instruction:
 * open terminal
 
-* change directory to the folder's location
+* change directory to the folder's location  
 note: its easier to copy the folder and paste it to home and then type "cd ~/<folder_name>"
 
 * type in "make upload" to compile and program file unto Arduino
