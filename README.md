@@ -29,7 +29,8 @@ Sparkfun Thumb Joystick VCC <---> BB +5V bus
 Sparkfun Thumb Joystick VERT <--> AMG Analog Pin A0  
 Sparkfun Thumb Joystick HOR <---> AMG Analog Pin A1  
 Sparkfun Thumb Joystick SEL <---> AMG Digital Pin 9  
-Sparkfun Thumb Joystick GND <---> BB GND bus  
+Sparkfun Thumb Joystick GND <---> BB GND bus
+
 AMG Analog Pin A7 <---> n/a
 
 -------------------------------------------------------------------------------------------
