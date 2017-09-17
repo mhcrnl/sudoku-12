@@ -11,7 +11,7 @@ Accessories:
 -------------------------------------------------------------------------------------------
 Wiring instructions:
 
-AMG GND <--> BB GND bus
+AMG GND <--> BB GND bus  
 AMG +5V <--> BB +5V bus
 
 TFT LCD screen GND <------> BB GND bus
